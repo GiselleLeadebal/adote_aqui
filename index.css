@@ -1,0 +1,33 @@
+header {
+    background-color: #fafafa;
+    opacity: 0.7;
+    width: 100%;
+    height: 4em;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+     align-items: center;
+   
+    
+} 
+
+.navegacaoheader {
+    text-decoration: none;
+    gap: 20%;
+    padding: 2%;
+    font-size: 100%;
+    display: flex;
+    flex-direction: flex-end;
+}
+
+body {
+    background-image: url(./assets/vista-frontal-de-um-lindo-cachorro-com-espaco-de-copia_23-2148786561.webp);
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+ align-items: center;
+    width: 20%;
+}
